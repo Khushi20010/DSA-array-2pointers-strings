@@ -1,6 +1,6 @@
 # Basic Maths DSA
 
-This folder contains important DSA math problems used in coding interviews and placements.
+This folder contains important DSA arrays problems used in coding interviews and placements.
 
 Topics Covered:
  Prime Numbers
